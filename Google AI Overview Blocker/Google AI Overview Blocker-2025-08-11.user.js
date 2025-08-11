@@ -9,6 +9,8 @@
 // @grant        none
 // ==/UserScript==
 
+// TODO: Add way to block the element faster
+
 (function() {
     'use strict';
 
