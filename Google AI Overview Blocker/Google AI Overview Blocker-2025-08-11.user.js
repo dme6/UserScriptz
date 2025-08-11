@@ -19,11 +19,7 @@
     function init() {
 
         const injection = document.createElement("style");
-        injection.innerText =
-        `
-        #${ESTR} { display: none; }
-
-        `;
+        injection.innerText = `#${ESTR} { display: none; }`;
 
         document.head.appendChild(injection);
 
